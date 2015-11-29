@@ -20,7 +20,7 @@
 Requirements
 ------------
 - Tracy >=2.3.0 (2.3.x support will be removed on 31 Jan 2017)
-- PHP >=5.5.0 (5.4.x support will be removed on 10 Jul 2016)
+- PHP >=5.5.0 (5.5.x support will be removed on 10 Jul 2016)
 
 Installation
 ------------
