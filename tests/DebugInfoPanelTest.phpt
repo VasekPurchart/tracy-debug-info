@@ -85,7 +85,7 @@ class DebugInfoPanelTest extends \Tester\TestCase
 		ob_end_flush();
 		ob_end_clean();
 
-		return "<!DOCTYPE html>" . substr($output, strpos($output, "\n"));
+		return '<!DOCTYPE html>' . substr($output, strpos($output, "\n"));
 	}
 
 }
