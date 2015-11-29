@@ -3,11 +3,11 @@
 
 **Original BlueScreen**
 
-[![Original BlueScreen](https://github.com/nella/tracy-debug-info/blob/master/build/example-ClassicException.png)](https://github.com/nella/tracy-debug-info/blob/master/build/example-ClassicException.html)
+[![Original BlueScreen](https://github.com/nella/tracy-debug-info/blob/master/build/example-ClassicException.png)](https://cdn.rawgit.com/nella/tracy-debug-info/master/build/example-ClassicException.html)
 
 **Better (with panel) BlueScreen**
 
-[![Better BlueScreen](https://github.com/nella/tracy-debug-info/blob/master/build/example-BetterException.png)](https://github.com/nella/tracy-debug-info/blob/master/build/example-BetterException.html)
+[![Better BlueScreen](https://github.com/nella/tracy-debug-info/blob/master/build/example-BetterException.png)](https://cdn.rawgit.com/nella/tracy-debug-info/master/build/example-BetterException.html)
 
 Requirements
 ------------
