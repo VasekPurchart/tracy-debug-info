@@ -3,6 +3,7 @@
 
 [![Build Status](https://img.shields.io/travis/nella/tracy-debug-info.svg?style=flat-square)](https://travis-ci.org/nella/tracy-debug-info)
 [![Code Coverage](https://img.shields.io/coveralls/nella/tracy-debug-info.svg?style=flat-square)](https://coveralls.io/r/nella/tracy-debug-info)
+[![SensioLabsInsight Status](https://img.shields.io/sensiolabs/i/d554e964-b3b4-40d1-be3c-c396eb697e78.svg?style=flat-square)](https://insight.sensiolabs.com/projects/d554e964-b3b4-40d1-be3c-c396eb697e78)
 [![Latest Stable Version](https://img.shields.io/packagist/v/nella/tracy-debug-info.svg?style=flat-square)](https://packagist.org/packages/nella/tracy-debug-info)
 [![Composer Downloads](https://img.shields.io/packagist/dt/nella/tracy-debug-info.svg?style=flat-square)](https://packagist.org/packages/nella/tracy-debug-info)
 [![Dependency Status](https://img.shields.io/versioneye/d/user/projects/565a5c9a036c32003a000011.svg?style=flat-square)](https://www.versioneye.com/user/projects/565a5c9a036c32003a000011)
