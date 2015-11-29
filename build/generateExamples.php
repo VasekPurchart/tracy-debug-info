@@ -14,6 +14,8 @@
 
 require_once __DIR__ . '/../vendor/autoload.php';
 
+unset($_SERVER['HOMEBREW_GITHUB_API_TOKEN']);
+
 class ClassicException extends \Exception
 {
 
