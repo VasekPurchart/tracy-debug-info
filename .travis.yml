@@ -24,3 +24,10 @@ install:
 script:
   - bin/parallel-lint -e php,phpt src tests
   - bin/phpcs -sp --standard=vendor/nella/coding-standard/Nella/ruleset.xml src tests
+
+  - if  [ $TRAVIS_PHP_VERSION = '5.6' ] && [ $TRAVIS_PULL_REQUEST = 'false' ]; then bin/tester -s -p php -c tests/php.ini tests --coverage build/clover.xml --coverage-src src; else bin/tester -s -p php -c tests/php.ini tests; fi
+
+after_success:
+  - if  [ $TRAVIS_PHP_VERSION = '5.6' ] && [ $TRAVIS_PULL_REQUEST = 'false' ]; then composer require symfony/yaml 2.6 satooshi/php-coveralls dev-master#2fbf803 --no-interaction --prefer-source --no-progress --ignore-platform-reqs
+    && bin/coveralls --verbose --config build/coveralls.yml
+    || true; fi
