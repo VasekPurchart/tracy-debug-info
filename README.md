@@ -1,6 +1,13 @@
 [Tracy BlueScreen](https://tracy.nette.org) panel for Exception::__debugInfo
 ============================================================================
 
+[![Build Status](https://img.shields.io/travis/nella/tracy-debug-info.svg?style=flat-square)](https://travis-ci.org/nella/tracy-debug-info)
+[![Code Coverage](https://img.shields.io/coveralls/nella/tracy-debug-info.svg?style=flat-square)](https://coveralls.io/r/nella/tracy-debug-info)
+[![Latest Stable Version](https://img.shields.io/packagist/v/nella/tracy-debug-info.svg?style=flat-square)](https://packagist.org/packages/nella/tracy-debug-info)
+[![Composer Downloads](https://img.shields.io/packagist/dt/nella/tracy-debug-info.svg?style=flat-square)](https://packagist.org/packages/nella/tracy-debug-info)
+[![Dependency Status](https://img.shields.io/versioneye/d/user/projects/565a5c9a036c32003a000011.svg?style=flat-square)](https://www.versioneye.com/user/projects/565a5c9a036c32003a000011)
+[![HHVM Status](https://img.shields.io/hhvm/nella/tracy-debug-info.svg?style=flat-square)](http://hhvm.h4cc.de/package/nella/tracy-debug-info)
+
 **Original BlueScreen**
 
 [![Original BlueScreen](https://github.com/nella/tracy-debug-info/blob/master/build/example-ClassicException.png)](https://cdn.rawgit.com/nella/tracy-debug-info/master/build/example-ClassicException.html)
