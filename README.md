@@ -38,7 +38,7 @@ Usage
 
 ```
 
-Your exception must implement `Nella\Tracy\DebugInfoException` interface. There is helper trail `Nella\Tracy\DebugInfoExceptionTrait` with implemented `__debugInfo` method.
+Your exception must implement `Nella\Tracy\DebugInfoException` interface. There is a helper trait `Nella\Tracy\DebugInfoExceptionTrait` with implemented `__debugInfo` method.
 
 
 ```php
